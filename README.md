@@ -1,10 +1,14 @@
 # Stay+
 
-#### A full-stack online marketplace for vacation homes and condo rentals used **Spring Boot** and **React.JS**. 
+#### A full-stack online marketplace for vacation homes and condo rentals used **Spring Boot** and **React.JS** with Antd.
 
 ## FrontEnd:
 
+log-in 
 
+<img src="https://raw.githubusercontent.com/hesihui/Stay-Rental-Application/main/demo_pic/log_in.jpg"/>
+
+<img src="https://raw.githubusercontent.com/hesihui/Stay-Rental-Application/main/demo_pic/upload.png"/>
 
 ## Backend APIs:
 
@@ -65,4 +69,6 @@ elasticsearch.username=test
 elasticsearch.password=12345678
 geocoding_apikey=<api key>
 ```
+
+## Resouces
 
