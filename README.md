@@ -72,3 +72,6 @@ geocoding_apikey=<api key>
 
 ## Resouces
 
+antd: https://ant.design/docs/spec/introduce
+
+Elastic Search on GCP: https://www.elastic.co/elasticsearch/features
